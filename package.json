@@ -1,0 +1,27 @@
+{
+  "name": "robday",
+  "version": "1.0.0",
+  "description": "A super awesome project for RobDay",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcooper22/RobDay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcooper22/RobDay/issues"
+  },
+  "homepage": "https://github.com/kcooper22/RobDay#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.3",
+    "md5": "^2.0.0",
+    "mongoose": "^4.3.5"
+  }
+}
